@@ -13,4 +13,8 @@ git pull origin master
 git push origin master
 
 
+<<<<<<< HEAD
 ps：如上操作，需要先要完成GitHub的SSH 11111 key配置
+=======
+ps：如上操作，需要先要完成GitHub的SSH key配置2222
+>>>>>>> f5f33ff1414982a82bfaf25e47ddb589cad4c7e3
