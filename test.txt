@@ -1,1 +1,13 @@
-121
+git 使用步骤
+#初始化git库库
+git init
+#把本地工程目录，添加到本地git库库
+git add .
+#把本地工程提交到库库
+git commit -m "测试首次提交"
+#若要提交到githup,与githup 关联
+git remote add test git@github.com:huangbh2020/test.git
+#同步github库库到本地仓库
+git pull origin master
+#提交本地仓库到githup
+git push origin master
