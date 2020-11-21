@@ -11,3 +11,6 @@ git remote add test git@github.com:huangbh2020/test.git
 git pull origin master
 #提交本地仓库到githup
 git push origin master
+
+
+ps：如上操作，需要先要完成GitHub的SSH key配置
